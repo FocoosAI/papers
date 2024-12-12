@@ -1,6 +1,6 @@
 # Papers List
 
-This repository lists papers authored by **FocoosAI**.
+This repository lists papers authored by **Focoos AI**.
 
 ## 2024
 
